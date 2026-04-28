@@ -2,7 +2,7 @@
 
 A professional-grade machine learning repository built to demonstrate production-ready ML engineering for canteen demand forecasting. This project generates a realistic synthetic dataset, applies feature engineering and model tuning, and serves predictions through an interactive Streamlit dashboard.
 
-## Resume-Ready Project Summary
+## Project Summary
 
 - Designed and implemented an end-to-end ML solution for demand forecasting and resource optimization.
 - Built a synthetic data engine with 500+ realistic records, modeling holiday, weather, menu, and exam period effects.
